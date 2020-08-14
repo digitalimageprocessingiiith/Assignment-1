@@ -16,5 +16,5 @@
 - **Make sure you run your Jupyter notebook before committing, to save all outputs.**
 
 ## Questions and Images
-- Refer to this link for finding the question pdf and images folder.
+- Refer to this [drive link](https://drive.google.com/drive/folders/1UzZL2YTeXVU0gkfdkeWvrB7dV8PfEDcT?usp=sharing) for finding the question pdf and images folder.
 - New questions will be added periodically as and when new topics are covered in the class.
